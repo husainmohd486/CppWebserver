@@ -1,0 +1,12 @@
+Create a webserver using existing libraries in C++. 
+Parse the given web link and provide the algorithm/s to perform the following tasks and Show the result on the 
+webpage: URL Link: http://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+a. Indexing 
+  i. Create a data structure to index all the content of the given web page 
+  ii. Index the web page's content 
+b. Search 
+  i. Search for a given set of word/s and provide all the occurrences with its complete data line E.g.: Search for:
+
+Winners and nominees Results: 
+2 List of winners and nominees 
+List of winners and nominees 
